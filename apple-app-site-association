@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WN6P73DZ4X.NixTeam.Nix",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
